@@ -14,7 +14,7 @@
             I enjoy Learning about code, playing video games, reading manga, comics and hanging out with friends.
             Am interested in many things! Learning to mod my favorite games, excreting my body(doctor orders) and try to do Youtube.
             I hope to learn and understand more on web programming hopefully after taking class and practice on my own I can grow
-            my skills and make better websites of my own.</p>
+            my skills and make better websites of my own. Am taking this course as part of my Program of Study</p>
     <h2>Projects and Goals</h2>
         <ul>
             <li>No Projects at the moment</li>
